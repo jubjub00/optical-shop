@@ -5,7 +5,7 @@ const doc = new GoogleSpreadsheet('1c_wlQshNY0mgDH5olFlUDvZ5v1MW1EdrM-COfrpUNdk'
 
 function getAll(data){
     return [
-        `Name:'${data.Name}'`,
+        `Namesss:'${data.Name}'`,
         `Surname:'${data.Surname}'`,
         `Telephone_Number:'${data.Telephone_Number}'`,
         `Age:'${data.Age}'`,
